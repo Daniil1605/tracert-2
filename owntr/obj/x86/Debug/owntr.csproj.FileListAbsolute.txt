@@ -1,0 +1,4 @@
+D:\ksis\owntr\bin\Debug\owntr.exe
+D:\ksis\owntr\bin\Debug\owntr.pdb
+D:\ksis\owntr\obj\x86\Debug\owntr.exe
+D:\ksis\owntr\obj\x86\Debug\owntr.pdb
